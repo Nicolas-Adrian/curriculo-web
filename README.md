@@ -20,7 +20,7 @@ Você pode visualizar o projeto acessando o link abaixo:
 
 🔗 **Link do projeto:**
 
-https://nicolas-adrian.github.io/meu-curriculo-web/
+https://nicolas-adrian.github.io/curriculo-web/
 
 ## 🛠 Tecnologias Utilizadas
 
