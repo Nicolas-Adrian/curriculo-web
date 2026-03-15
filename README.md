@@ -65,13 +65,7 @@ Algumas melhorias que podem ser adicionadas ao projeto no futuro:
 📧 [adriannicolas1311@gmail.com](mailto:adriannicolas1311@gmail.com)
 
 GitHub:
-https://github.com/nicolasadrian-barros
-
-LinkedIn:
-https://www.linkedin.com/in/nicolas-adrian-barros
-
-GitHub:
-https://github.com/nicolasadrian-barros
+https://github.com/Nicolas-Adrian
 
 LinkedIn:
 https://www.linkedin.com/in/nicolas-adrian-barros
